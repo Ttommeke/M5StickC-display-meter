@@ -1,0 +1,23 @@
+{
+  "name": "m5stickc-display-meter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ttommeke/M5StickC-display-meter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ttommeke/M5StickC-display-meter/issues"
+  },
+  "homepage": "https://github.com/Ttommeke/M5StickC-display-meter#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
